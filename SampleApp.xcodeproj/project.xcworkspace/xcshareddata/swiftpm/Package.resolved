@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cosmicsdkswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cosmicjs/CosmicSDKSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8c6bf76b1a174e22bf27d7af0628dffa38bb7877"
+      }
+    }
+  ],
+  "version" : 2
+}
